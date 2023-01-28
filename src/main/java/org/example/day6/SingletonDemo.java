@@ -1,6 +1,6 @@
 package org.example.day6;
 
-import waffle.windows.auth.WindowsAccount;
+
 
 public class SingletonDemo {
     public static void main(String[] args) {

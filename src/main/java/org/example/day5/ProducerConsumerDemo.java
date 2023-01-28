@@ -1,6 +1,5 @@
 package org.example.day5;
 
-import org.checkerframework.checker.units.qual.A;
 
 import java.util.*;
 import java.util.concurrent.locks.Condition;

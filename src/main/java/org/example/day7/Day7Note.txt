@@ -1,0 +1,124 @@
+OSI Model and TCP/IP Model
+    OSI Model
+        Open System Interconnection, 7 layer
+            - application layer: Http, FTP, SMTP, DNS
+            - presentation layer: encryption/decryption
+            - session layer: sockets
+            - transport layer: TCP and UDP
+            - network layer: IP
+            - data link layer: format of data
+            - physical layer: raw bit
+    TCP/IP Model
+        - application layer
+        - transport layer
+        - internet layer
+        - network access layer
+
+HTTP (Hypertext Transfer Protocol)
+    - client-server model
+    - Http Request
+        - header/ body
+    - Http Response
+        - header / body
+    - http method:
+        get: read                |   safe    |     idempotent      |    cacheable      |
+        post: create             | not safe  |  not idempotent     |   not cacheable   |
+        put: whole update        | not safe  |     idempotent      |   not cacheable   |
+        delete: remove           | not safe  |     idempotent      |   not cacheable   |
+        patch: partial update    | not safe  |  not idempotent (can be) |   not cacheable   |
+    - http status code
+        1xx information
+        2xx success
+        3xx redirection
+        4xx client error
+        5xx server error
+
+HTTP advanced
+    safe, a http method is safe if it doesn't alter the state of the server
+    idempotent: a http method is idempotent if an identical request can be made once or several times in a row
+                with the same effect while leaving the server in the same state
+    cacheable
+        - whether response can be cached
+
+        post request: create a user (2, Mali, CA, 18)
+        patch request: {operation: "add", targetField: age}
+        id name address age
+        (2, Tom, CA, 23)
+
+    http status code
+        200 OK
+        201 created
+        202 Accepted
+        204 No content
+        307 temporary redirect
+        301 moved permanently
+        400 bad request
+        401 unauthorized
+        403 forbidden
+        404 not found
+        500 internal server error
+
+
+TCP and UDP,
+    difference
+    TCP 3 way handshaking / 4 way handshaking
+
+Session and Cookie
+    - Cookie: client side,
+    - Session: Server side, implements HttpSession interface
+
+
+Java Web Application Architecture
+    - Tomcat/ Jboss/ Jetty/ Apache TomEE....
+
+Three Tier Architecture
+    - controller / Service/ DAO(repository layer)
+
+____________________ Spring ___________________________________
+Spring IOC
+    Inversion of control
+
+
+public class Store {
+    private Item item;
+    public Store() {
+        this.item = new ItemImpl("Desk");
+    }
+}
+
+public class Store {
+    private Item item;
+    public Store(Item item) {
+        this.item = item;
+    }
+}
+
+
+class AnotherCLass {
+    public static void main(String[] args) {
+        Item item = new Item(fields);
+        Store store = new Store(item);
+    }
+}
+
+DI (dependency Injection)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
