@@ -1,0 +1,52 @@
+1. types of DI
+    - constructor based DI, recommend, make the unit test easier, inject mock easily
+    - setter based DI: flexible, partially injection
+    - field based DI: most convenient, prevent cycle dependency issue, not safe
+
+2. ApplicationContext & BeanFactory
+
+3. Bean Scope
+	- singleton (default)
+	- prototype 
+	- request
+	- session
+	- application
+
+4. Bean Life Cycle
+	- @PostConstruct
+	- @PreDestroy
+
+        @PostConstruct
+        Public void customInit() {
+            // custom logic
+        }
+
+5. AOP
+    Aspect: cut across concern,
+        Logging, Security, Transaction
+        @Aspect
+    Advice:
+        before, after, after return, after throwing, around
+    Join Point: a point during the execution of a program
+    Pointcut: predicate that matches joinpoints, expression
+    Target: where we add the AOP logic
+
+    AOP -> Dynamic Proxy -> Reflection
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+

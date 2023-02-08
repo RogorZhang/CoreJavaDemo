@@ -1,0 +1,49 @@
+Spring Core -> Spring MVC   ->    Spring Boot
+servlets      DispatcherServlet     embedded Tomcat/starter/auto config....
+xml
+
+1. Spring MVC
+    - Model/View/Controller
+    - DispatcherServlet
+
+2. Spring Boot
+    why
+        - autoconfiguration
+        - dependency management - starter
+        - embedded Server -> Tomcat (default)
+        - annotation based
+        - 。。。
+
+3. RESTFul API Design
+    get, post, put, delete, patch
+    Http status code: 200, 201, 202, 204, 301, 307, 400, 401, 403, 404, 500
+    url design
+        get:    /tickets        get all the tickets
+        get:    /tickets/id     retrieve a specific ticket
+        post:   /tickets        create
+        put:    /tickets/id     update
+        patch:  /tickets/id     partially update
+        delete: /tickets/id     delete
+
+        get:    /tickets/id/messages        get all the message for a specific tickets
+        get:    /tickets/tid/messages/mid
+        post:   /tickets/tid/messages
+        put:    /tickets/tid/messages/mid
+        patch:  /tickets/tid/messages/mid
+        delete: /tickets/tid/messages/mid
+
+    filter: get     /tickets?state=close
+    sorting: get    /tickets?sort=-priority,created_at
+    search: get     /tickets?q=java
+       get /tickets?q=java&sort=priority&state=open
+
+
+4. Spring Boot rest
+    @RequestBody: json -> java object
+    @ResponseBody: java object -> json
+    @Controller vs @RestController, @Service, @Repository
+    @GetMapping,  @PostMapping, @PutMapping, @DeleteMapping, @RequestMapping
+    @PathVariable, @RequestParam
+
+
+

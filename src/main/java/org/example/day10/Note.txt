@@ -1,0 +1,82 @@
+
+1. Exception handling
+    - @ExceptionHandler local
+    - @ControllerAdvice global
+    - @ResponseStatus -> ResponseStatusExceptionResolver class
+    - DefaultHandlerExceptionResolver
+
+2. Validation
+    - @NotNull, @NotBlank, @Min, @Max, @Pattern(regex), @Email....
+    - @Validated
+
+3. Cache
+    cache miss/ cache hit
+    @EnableCache, @Cacheable
+    CacheManager
+
+    Eviction Policy
+    - lru, least recent used, LinkedHashMap, (LinkedList + HashMap)
+    - lfu, least frequent used
+    - no-eviction
+    - random
+    - most recently used
+
+4. Relational Database (sql database)
+    database,
+    DBMS(database management system), MySql, PostgreSQL, SQl Server, Oracle, FileMaker
+    SQL (Structured Query Language), select ... from ... where ... group by ... order by,
+        mysql
+            select * from my_table order by name limit 20, 10
+        Oracle
+            select * from my_table order by name offset 20 rows fetch next 10 rows only;
+    database normalization
+        1nf(first norm form): each table cell should contain a single value, each record needs to be unique
+        2nf: follow 1nf, single column primary key
+        3nf: follow 2nf, has no transitive functional dependencies
+        de-normalization
+
+5, Non-relational Database (no-sql database)
+    major categories of non-relational database
+        document data stores, MongoDB, CouchDB
+            collections -> tables
+            documents  -> rows
+            fields -> column
+        Columnar (column family) data stores, Cassandra, HBase
+        key-value database: redis, riak
+        Graph data store: Neo4j, GraphDB
+
+    CAP: can't achieve 3 at the same time
+        - Consistency:
+        - Availability
+        - Partition tolerance
+
+        AP: Dynamo, Cassandra, CouchDB, Riak, SimpleDB,,,
+        CP: MongoDB, BigTable, HBase, Redis, Hypertable....
+
+6. Difference between sql and no-sql database
+    sql
+        relational database
+        predefined schema
+        vertical scaling
+        ACID
+
+    nosql
+        non relational database
+        dynamic schema
+        horizontal scaling
+        CAP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
