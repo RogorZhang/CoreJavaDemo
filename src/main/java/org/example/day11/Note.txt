@@ -1,0 +1,107 @@
+Eva on Sat,
+    top -> market in advance
+    poor -> drop
+
+project -> Github (before Friday 24:00 PST -> my slack), presentation,  (20%)
+homework (30%)
+QA (50%)
+
+select from, where group by, order by.. join..
+
+1. JDBC
+    steps: connection -> statement -> sql query -> process sql -> close connection/statement
+    select, update, insert (whole, partial), delete;
+    Atomic transaction, (commit, rollback)
+    BatchProcessing
+    PreparedStatement -> sql injection
+    Statement vs PreparedStatement vs CallableStatement
+
+2. Hibernate
+    ORM: object relational Mapping
+    tool: Hibernate, Sequelize, MyBatis, SqlAlchemy, Doctrine2...
+
+    JPA: java persistence API, specification
+    Hibernate: implementation
+
+    Hibernate Architecture
+
+    Entity LifeCycle
+        Transient
+        Persistent
+        Detached
+        Removed
+
+    Mapping
+        OneToOne
+        ManyToOne
+        OneToMany
+        ManyToMany
+
+    ManyToMany: Reader <-> subscription
+    OneToMany: Employee <-> Accounts
+    OneToOne: Husband <-> Wife
+
+    Cascade Type
+        Persist
+        Merge (update database with new entity)
+        Refresh (opposite with merge)
+        Remove
+        Detach
+        All
+
+    Fetch type
+        Lazy loading
+        Eager loading
+
+       OneToOne: default eager
+       ManyToOne: eager
+       OneToMany: lazy
+       ManyToMany: lazy
+
+    First Level Cache/ Second Level Cache
+        Session Level Cache
+            open by default
+            first level
+        Session Factory Level Cache
+            close by default
+            global
+            second Level
+
+        EhCache, -> OSCache, Redis...
+
+    query:
+        criteria Queries: https://howtodoinjava.com/hibernate/hibernate-criteria-queries-tutorial/
+        HQL: https://howtodoinjava.com/hibernate/complete-hibernate-query-language-hql-tutorial/
+        Native query
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
