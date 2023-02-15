@@ -1,0 +1,100 @@
+
+
+
+1. Web Architecture
+
+web application and web service
+    web app: Amazon.com, GUI
+    web service:
+
+JavaSE: java standard edition
+Java EE: java enterprise edition
+
+2. Evolution of web Architecture
+    Monolithic
+    front-back separation
+        - way to communicate
+            front end send request to the back for data
+            web-sockets
+    SOA: service oriented architecture
+        - ESB: Enterprise Service Bus
+    Microservice
+        each service has its own database
+    Micro-Front
+        webpack
+
+3. Communication
+    REST: Json, Xml, html...
+    SOAP: xml
+    RPC: remote procedure call
+    graphQL: pull data from multiple data resource with single API call
+
+
+4. data store
+    sql: Mysql, Oracle, Sql Server....
+    no-sql: MongoDB, Cassandra
+    cache: redis, mem-cache
+
+
+5. Operation System
+    linux,
+    Windows, Max
+
+
+6. SOLID
+    https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#single-responsibility-principle
+    Single Responsibility Principle
+    Open-closed Principle
+    Liskov Substitution Principle
+    Interface Segregation Principle
+    Dependency Inversion Principle
+
+7. Microservice Components
+    DNS, www.google.com -> 172.253.122.104
+    load balancer
+    database
+    cache service
+    job queue/ servers
+    full text search
+    services
+    data firehose
+    cloud storage
+    CDN
+    ...
+
+8. Spring Cloud
+    Config Serer: Config server
+    Service Discovery: Eureka, Consoul, Zookeeper...
+    Zipkin and Sleuth: tracing system
+    Ribbon: client side load balancer
+    ELK: kibana, Logstash, ElasticSearch
+    Circuit Breaker: fall back
+        Hystrix -> Resilience4j
+    ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
