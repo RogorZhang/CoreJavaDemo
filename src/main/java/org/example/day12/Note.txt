@@ -63,7 +63,7 @@ Java EE: java enterprise edition
     ...
 
 8. Spring Cloud
-    Config Serer: Config server
+    Config Server: Config server
     Service Discovery: Eureka, Consoul, Zookeeper...
     Zipkin and Sleuth: tracing system
     Ribbon: client side load balancer

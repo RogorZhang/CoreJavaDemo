@@ -1,0 +1,17 @@
+1. Docker
+	docker vs VM
+	Dockerfile -> docker image -> docker container
+	Docker Architecture
+		Docker engine
+		docker client
+		docker registries
+
+	docker deployment and orchestration
+		docker plugins
+		docker compose
+		docker swarm
+		k8s
+
+2 AWS
+	see AWS slides
+
