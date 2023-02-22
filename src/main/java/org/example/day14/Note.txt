@@ -1,0 +1,53 @@
+1. Environment
+	Dev Env
+		developer, very frequently
+	Test Env/Integration Env
+		integration test, penetration test
+		Tester, BA, Productor Manager
+		maybe two weeks
+	User Acceptance Test (UAT)/ Staging/ Pre-prod
+		internal network
+		deploy period month
+	Producet Env:
+		release, deploy period month
+
+2 CICD pipeline
+	jenkins
+	Jenkinsfile
+
+3. Monitor
+	Prometheus Server
+	Grafana Server
+	Spring Actuator
+	Expoter /metrics
+
+4. Agile
+	Team title
+		BA, QA, DBA, DevOps, Developer
+		TL, Architect, Manager
+	Agile tile
+		Scrum Master 
+		Product Owner
+	
+
+	Agile methodology
+		sprint planning
+		sprint review
+		Sprint retrospective 
+		Daily standup meeting
+
+	
+	waterfall methodology
+		
+	Jira
+
+	story points
+		1 point = 2 hours
+		If one sprint is one week -> 40 hours, -> 16 points, 32 hours, some margin
+	
+	Fibonacci
+	1, 2, 3, 5, 8, 13
+	13 very big story
+		-> 5 + 3 + 5
+
+	team size < = 10
