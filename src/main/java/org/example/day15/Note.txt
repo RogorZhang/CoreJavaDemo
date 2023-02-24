@@ -1,0 +1,70 @@
+1. Security
+
+Authentication vs Authorization
+	Authentication: validate the user
+	Authorization: check permission
+
+Encryption, Hashing, Encoding
+	Encryption
+		symmetric/ 
+		Asymmetric: private, public key
+		algo: AES, 3-DES, SNOW / RSA, 	
+	Hashing
+		lose the data, one way
+		algo: MD5, SHA...
+		usage: data integration/ password storage / file management
+		rainbow table, salt
+	Encoding
+		algo: base64,...
+		use case: url encoding/ file encoding
+
+JWT
+	header/ payload/ verify signature
+
+OAuth 2.0
+	third party validation
+
+SSO:
+	single sign on
+
+Spring Security
+
+
+Testing
+	developer (JUnit, Mockito)
+		unit test
+		integration test
+	Tester(manual tester)/ QA (quality analysis)/ SDET(software development engineer in test)
+		performace test 
+			JMeter: 20-200 ms, qps, concurrent users....
+		smoke test
+		Sanity test
+		regression test
+		Penetration test: white hacker
+		acceptance test: 
+Test framework		
+	Junit/Mockito
+		@Test, assertTrue, assertEquals, 
+		@BeforeEach, @BeforeAll, @AfterEach, @AfterAll
+		@SpringBootTest, @Autowired
+		@Mock, @InjectMocks
+		@Spy
+
+	RestAssured
+
+Test Style
+	TDD: test driven development
+	BDD: behavior driven development
+		cucumber/karate
+	
+
+Code quality analysis
+	PMD
+	SonarQube
+		
+	
+
+
+
+
+
