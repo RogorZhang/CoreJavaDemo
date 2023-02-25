@@ -1,0 +1,65 @@
+Message System
+	why message system
+	Message System Model
+		Point to point model
+		publish subscribe model
+	
+	Kafka Architecture
+		producer
+		consumer
+		broker 
+		topic (partition/replica) leader/follower
+		message (key, value) -> Apache Avro, serialization
+		batch
+	producer
+		if partition, send to partition directly
+		if no partition, if key, module operation -> find the partition number
+		if no partition, if no key, random generate number -> partition
+
+		acknowledge
+			acks = 0, don't wait ack
+			acks = 1, wait for ack from leader
+			acks = -1, wait leader and follows backup the data, ISR
+
+	Consumer: 
+		offset: consumer record the last reading location
+
+Project demo
+
+Interview question: 
+	message accumulated in Kafka, consumer can't consume all the data on time, what should you do?
+	how does Kafka deal with the expired data?
+		log.cleanup.policy=delete
+		log.cleanup.policy=compact
+	data volum in Kafka?
+		daily total data size: 100 GB
+		each log: 0.5k - 2k (avg 1k)
+		daily log number: 100 Million logs
+		every second: 10^8/24/60/60 = 1150 logs/s
+		avg: 1150 log/s
+		highest: 1150 * (2-20)= 2300-23000logs
+		lowest: 50
+		data volume per second: 1MB/s -> 2MB-20MB
+	how to calculate partition number?
+		total throughput: Tt (MB/s)
+		Producer: Tp (MB/s)
+		Consumer: Tc (MB/s)
+		partition number = Tt / min(Tp, Tc)
+
+		ex:
+		producer Tp = 20 MB/s
+		consumer Tc = 50 m/s
+		total Tt = 100m/s
+		partition number = 100 / 20 = 5
+
+RabbitMQ, JMQP, SNS/SQS
+
+
+
+
+
+
+
+		
+			
+		
