@@ -3,250 +3,94 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/array/ArrayArrayTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/array/ArrayArrayTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/array/ArrayArrayTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/array/ArrayCopyTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/array/ArrayCopyTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/array/ArrayCopyTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/array/ArrayTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/array/ArrayTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/array/ArrayTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/array/ArraysTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/array/ArraysTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/array/ArraysTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/CollectionPrintTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/CollectionPrintTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/CollectionPrintTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/CollectionTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/CollectionTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/CollectionTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/ListMethodTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/ListMethodTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/ListMethodTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/ListTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/ListTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/ListTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/Person.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/Person.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/Person.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/QueueTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/QueueTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/QueueTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/StackTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/StackTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/collections1/StackTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/BigDecimalTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/BigDecimalTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/BigDecimalTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/BooleanTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/BooleanTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/BooleanTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/CharacterTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/CharacterTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/CharacterTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/DoubleTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/DoubleTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/DoubleTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/IntegerTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/IntegerTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/IntegerTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/MathTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/MathTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/MathTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/Student.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/Student.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/Student.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/StudentTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/StudentTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/coreclasses/StudentTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/DoWhileTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/DoWhileTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/DoWhileTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/ForContinueTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/ForContinueTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/ForContinueTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/ForForTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/ForForTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/ForForTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/ForSumTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/ForSumTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/ForSumTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfElseJudgeTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfElseJudgeTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfElseJudgeTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfElseTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfElseTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfElseTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfElseifElseTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfElseifElseTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfElseifElseTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfMaxTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfMaxTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfMaxTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfScoreTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfScoreTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfScoreTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/IfTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/SwitchMenuTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/SwitchMenuTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/SwitchMenuTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/SwitchScoreTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/SwitchScoreTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/SwitchScoreTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/WhileTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/WhileTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/flowcontrol/WhileTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/Animal.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/Animal.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/Animal.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/BlockTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/BlockTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/BlockTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/Dog.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/Dog.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/Dog.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/DogTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/DogTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/DogTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/FinalClass.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/FinalClass.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/FinalClass.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/FinalMemberTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/FinalMemberTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/FinalMemberTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/People.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/People.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/People.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/PeopleTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/PeopleTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/PeopleTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/Singleton.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/Singleton.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/Singleton.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/SingletonTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/SingletonTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/SingletonTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/StaticTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/StaticTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/StaticTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/SubFinalClass.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/SubFinalClass.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/inherit/SubFinalClass.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/method/Boy.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/method/Boy.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/method/Boy.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/method/OverloadTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/method/OverloadTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/method/OverloadTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/method/Student.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/method/Student.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/method/Student.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/method/StudentTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/method/StudentTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/method/StudentTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/ArithmeticTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/ArithmeticTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/ArithmeticTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/LogicJudgeTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/LogicJudgeTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/LogicJudgeTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/LogicTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/LogicTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/LogicTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/RelationTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/RelationTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/RelationTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/SelfTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/SelfTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/operator/SelfTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/AbstractTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/AbstractTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/AbstractTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Circle.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Circle.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Circle.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Gold.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Gold.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Gold.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Hunter.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Hunter.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Hunter.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/InterfaceTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/InterfaceTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/InterfaceTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Man.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Man.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Man.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Metal.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Metal.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Metal.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Money.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Money.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Money.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Rect.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Rect.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Rect.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Runner.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Runner.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Runner.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Shape.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Shape.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/Shape.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/ShapeRectTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/ShapeRectTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/polymorphism/ShapeRectTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringBuilderTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringBuilderTest.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/reflection/ClassTest.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/reflection/MyAnnotation.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/reflection/Person.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/reflection/PersonConstructorTest.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/reflection/PersonFieldTest.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/reflection/PersonMethodTest.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/reflection/Student.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/reflection/StudentTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringBuilderTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringByteCharTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringByteCharTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringByteCharTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringCharTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringCharTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringCharTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringCompareTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringCompareTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringCompareTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringConstructorTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringConstructorTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringConstructorTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringEqualsTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringEqualsTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringEqualsTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringExamTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringExamTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringExamTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringIndexTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringIndexTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringIndexTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringManyMethodTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringManyMethodTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringManyMethodTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringRegMethodTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringRegMethodTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/StringRegMethodTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/SubStringTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/SubStringTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/string/SubStringTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/BooleanTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/BooleanTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/BooleanTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/CharTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/CharTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/CharTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/DoubleTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/DoubleTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/DoubleTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/IntTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/IntTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/IntTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/TransformTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/TransformTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/TransformTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/VarTest.java" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/VarTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/sample/variable/VarTest.java" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
