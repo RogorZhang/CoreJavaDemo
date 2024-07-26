@@ -1,7 +1,6 @@
 package org.sample.collections1;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collection;
 
 public class CollectionTest {
